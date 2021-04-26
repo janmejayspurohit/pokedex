@@ -1,3 +1,6 @@
+### `Deployed on Vercel`
+Open [https://jsp-pokedex.vercel.app/](https://jsp-pokedex.vercel.app/) to view it in the browser.
+
 ## Getting Started
 
 First, run the development server:
